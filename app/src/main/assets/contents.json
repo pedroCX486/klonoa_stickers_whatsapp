@@ -1,0 +1,118 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Klonoa",
+      "publisher": "PedroCX486",
+      "tray_image_file": "tray_Klonoa.webp",
+      "publisher_email":"pedrocarneiromneto@gmail.com",
+      "publisher_website": "http://pedrocx486.github.io",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Klonoa_wink.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "02_Klonoa_mad.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "03_Klonoa_pokerface.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "04_Klonoa_angry.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "05_Klonoa_confused.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "06_Klonoa_dead.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "07_Klonoa_disgusted.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "08_Klonoa_embarassed.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "09_Klonoa_grin.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10_Klonoa_happy.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11_Klonoa_look.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12_Klonoa_nice.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13_Klonoa_normal.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14_Klonoa_sad.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15_Klonoa_screaming.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16_Klonoa_serious.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17_Klonoa_shocked.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18_Klonoa_sick.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19_Klonoa_sleeping.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20_Klonoa_smile.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21_Klonoa_tired.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22_Klonoa_frustrated.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23_Klonoa_yeah.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24_Klonoa_unsure.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25_Klonoa_verymad.webp",
+          "emojis": []
+        }
+      ]
+    }
+  ]
+}
