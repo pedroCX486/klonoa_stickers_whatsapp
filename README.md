@@ -1,6 +1,6 @@
 # Klonoa Sticker Pack for Whatsapp
 
-  - Featuring 25 emojis from Klonoa Heroes
+  - Featuring 25 emojis from Klonoa Heroes (update: and now more!)
   - Fully opensource!
 
 ## Notes
