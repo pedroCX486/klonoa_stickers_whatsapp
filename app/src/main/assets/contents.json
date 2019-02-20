@@ -113,6 +113,62 @@
           "emojis": []
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Moo",
+      "publisher": "PedroCX486",
+      "tray_image_file": "tray_moo.webp",
+      "publisher_email":"pedrocarneiromneto@gmail.com",
+      "publisher_website": "http://pedrocx486.github.io",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_moo_black.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "02_moo_blue.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "03_moo_cyan.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "04_moo_green.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "05_moo_lightblue.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "06_moo_orange.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "07_moo_pink.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "08_moo_purple.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "09_moo_red.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10_moo_white.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11_moo_yellow.webp",
+          "emojis": []
+        }
+      ]
     }
   ]
 }
